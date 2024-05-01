@@ -2,7 +2,7 @@
 
 ## Description
 
-Car Rental PLatform
+Car Rental Platform
 
 ## Table of Contents
 
@@ -19,6 +19,18 @@ npm install
 
 ## Usage
 
+### run dev server
+
 ```bash
 npm run dev
+```
+### build 
+
+```bash
+npm run build
+```
+### start 
+
+```bash
+npm run start
 ```
