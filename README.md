@@ -8,8 +8,7 @@ Car Rental Platform
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Tech Stack](#tech-stack)
 
 ## Installation
 
@@ -34,3 +33,9 @@ npm run build
 ```bash
 npm run start
 ```
+
+## Tech-Stack
+- next
+- react
+- typescript
+- tailwindcss
